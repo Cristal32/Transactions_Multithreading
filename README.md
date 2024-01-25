@@ -1,4 +1,4 @@
-# Assignement for undertanding the fundamental concepts of multithreading in the context of bank transactions
+# Assignement for understanding the fundamental concepts of multithreading in the context of bank transactions
 
 This assignement is composed of 3 parts. The 1st two parts tackle notions in multithreading such as concurrent threads and synchronisation, using the synchronized keyword, locks and conditions.
 
