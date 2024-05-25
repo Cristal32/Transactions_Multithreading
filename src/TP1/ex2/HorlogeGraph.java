@@ -1,4 +1,4 @@
-package tp1_multithreading_ex2;
+package TP1.ex2;
 
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;

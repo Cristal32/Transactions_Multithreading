@@ -1,4 +1,4 @@
-package tp2_multithreading_exB;
+package TP2.exB;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

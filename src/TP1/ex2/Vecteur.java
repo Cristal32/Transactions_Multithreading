@@ -1,4 +1,4 @@
-package tp1_multithreading_ex2;
+package TP1.ex2;
 
 public class Vecteur {
 	private int heure;

@@ -1,4 +1,4 @@
-package tp1_multithreading_ex1;
+package TP1.ex1;
 
 public class ThreadLettre extends Thread {
 	private char premiere_lettre;

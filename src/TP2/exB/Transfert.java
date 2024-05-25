@@ -1,4 +1,4 @@
-package tp2_multithreading_exB;
+package TP2.exB;
 
 public class Transfert implements Runnable{
 	

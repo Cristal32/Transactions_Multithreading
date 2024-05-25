@@ -1,4 +1,4 @@
-package tp2_multithreading_exA;
+package TP2.exA;
 
 public class SanjiEtNamiJob implements Runnable {
 	

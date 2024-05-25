@@ -1,4 +1,4 @@
-package tp1_multithreading_ex3;
+package TP1.ex3;
 
 public class Ex3 {
 	

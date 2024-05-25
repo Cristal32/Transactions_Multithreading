@@ -1,4 +1,4 @@
-package tp2_multithreading_exC;
+package TP2.exC;
 
 import javax.swing.*;
 import java.awt.*;
